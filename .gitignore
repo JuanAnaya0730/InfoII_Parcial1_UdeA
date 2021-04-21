@@ -32,6 +32,7 @@ qrc_*.cpp
 Thumbs.db
 *.res
 *.rc
+*.zip
 
 # qtcreator generated files
 *.pro.user*
